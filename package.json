@@ -1,0 +1,29 @@
+{
+  "name": "unirehber",
+  "version": "1.0.0",
+  "description": "Universite yorum ve tercih rehberi platformu",
+  "main": "server.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "import:excel": "node scripts/importUniversiteler.js",
+    "seed:universiteler": "node scripts/seedUniversiteler.js"
+  },
+  "keywords": [
+    "universite",
+    "yorum",
+    "rehber"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "mongoose": "^8.9.5",
+    "read-excel-file": "^5.8.8"
+  }
+}
