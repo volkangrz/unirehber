@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Universite Detayi | UNIREHBER</title>
+    <link rel="stylesheet" href="/css/styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="/" aria-label="UNIREHBER ana sayfa">
+        <span class="brand-mark">UR</span>
+        <span>UNIREHBER</span>
+      </a>
+      <nav class="nav">
+        <a href="/">Universiteler</a>
+        <a href="/admin">Admin</a>
+      </nav>
+    </header>
+
+    <main class="detail-page">
+      <section class="detail-hero" id="universityHero">
+        <p class="eyebrow">Universite profili</p>
+        <h1>Yukleniyor...</h1>
+      </section>
+
+      <section class="detail-layout">
+        <div>
+          <div class="section-heading">
+            <p class="eyebrow">Yorumlar</p>
+            <h2>Ogrenci deneyimleri</h2>
+          </div>
+          <div id="commentList" class="comment-list"></div>
+        </div>
+
+        <aside class="review-form-panel">
+          <div class="section-heading">
+            <p class="eyebrow">Katki ver</p>
+            <h2>Yorum yaz</h2>
+          </div>
+          <form id="reviewForm" class="review-form">
+            <label>
+              Isim
+              <input name="kullanici" type="text" placeholder="anonim" maxlength="60" />
+            </label>
+            <label>
+              Puan
+              <select name="puan" required>
+                <option value="5">5 - Cok iyi</option>
+                <option value="4">4 - Iyi</option>
+                <option value="3">3 - Orta</option>
+                <option value="2">2 - Zayif</option>
+                <option value="1">1 - Kotu</option>
+              </select>
+            </label>
+            <label>
+              Yorum
+              <textarea name="yorum" rows="7" minlength="10" maxlength="1200" required placeholder="Kampus, ulasim, hocalar, sosyal ortam veya bolum deneyimini yaz."></textarea>
+            </label>
+            <button class="primary-button" type="submit">Onaya gonder</button>
+            <p class="form-message" id="formMessage" role="status"></p>
+          </form>
+        </aside>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <span>UNIREHBER</span>
+      <span>Yorumlar admin onayindan sonra yayina girer.</span>
+    </footer>
+
+    <script src="/js/universite.js"></script>
+  </body>
+</html>

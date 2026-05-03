@@ -1,0 +1,1642 @@
+[
+  {
+    "_id": "67fb74670352d15df92d37e3",
+    "ad": "Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi",
+    "sehir": "Adana",
+    "tur": "Devlet",
+    "web": "https://www.atu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3814",
+    "ad": "Çukurova Üniversitesi",
+    "sehir": "Adana",
+    "tur": "Devlet",
+    "web": "https://www.cu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d37e4",
+    "ad": "Adıyaman Üniversitesi",
+    "sehir": "Adıyaman",
+    "tur": "Devlet",
+    "web": "https://www.adiyaman.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d37e5",
+    "ad": "Afyon Kocatepe Üniversitesi",
+    "sehir": "Afyonkarahisar",
+    "tur": "Devlet",
+    "web": "https://www.aku.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d37e6",
+    "ad": "Afyonkarahisar Sağlık Bilimleri Üniversitesi",
+    "sehir": "Afyonkarahisar",
+    "tur": "Devlet",
+    "web": "https://www.afsu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d37e9",
+    "ad": "Aksaray Üniversitesi",
+    "sehir": "Aksaray",
+    "tur": "Devlet",
+    "web": "https://www.aksaray.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d37ed",
+    "ad": "Amasya Üniversitesi",
+    "sehir": "Amasya",
+    "tur": "Devlet",
+    "web": "https://www.amasya.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d37ef",
+    "ad": "Ankara Bilim Üniversitesi",
+    "sehir": "Ankara",
+    "tur": "Vakıf",
+    "web": "https://www.ankara.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d37f0",
+    "ad": "Ankara Hacı Bayram Veli Üniversitesi",
+    "sehir": "Ankara",
+    "tur": "Devlet",
+    "web": "https://www.hacibayram.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d37f1",
+    "ad": "Ankara Medipol Üniversitesi",
+    "sehir": "Ankara",
+    "tur": "Vakıf",
+    "web": "https://www.medipol.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d37f2",
+    "ad": "Ankara Müzik ve Güzel Sanatlar Üniversitesi",
+    "sehir": "Ankara",
+    "tur": "Devlet",
+    "web": "https://www.gsf.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d37f3",
+    "ad": "Ankara Sosyal Bilimler Üniversitesi",
+    "sehir": "Ankara",
+    "tur": "Devlet",
+    "web": "https://asbu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d37f4",
+    "ad": "Ankara Üniversitesi",
+    "sehir": "Ankara",
+    "tur": "Devlet",
+    "web": "https://www.ankara.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d37f5",
+    "ad": "Ankara Yıldırım Beyazıt Üniversitesi",
+    "sehir": "Ankara",
+    "tur": "Devlet",
+    "web": "https://www.aybu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d37fb",
+    "ad": "Atılım Üniversitesi",
+    "sehir": "Ankara",
+    "tur": "Vakıf",
+    "web": "https://www.atilim.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3802",
+    "ad": "Başkent Üniversitesi",
+    "sehir": "Ankara",
+    "tur": "Vakıf",
+    "web": "https://www.baskent.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3812",
+    "ad": "Çankaya Üniversitesi",
+    "sehir": "Ankara",
+    "tur": "Vakıf",
+    "web": "https://www.cankaya.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3824",
+    "ad": "Gazi Üniversitesi",
+    "sehir": "Ankara",
+    "tur": "Devlet",
+    "web": "https://www.gazi.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d382a",
+    "ad": "Hacettepe Üniversitesi",
+    "sehir": "Ankara",
+    "tur": "Devlet",
+    "web": "https://www.hacettepe.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3835",
+    "ad": "İhsan Doğramacı Bilkent Üniversitesi",
+    "sehir": "Ankara",
+    "tur": "Vakıf",
+    "web": "https://www.bilkent.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3858",
+    "ad": "Jandarma ve Sahil Güvenlik Akademisi",
+    "sehir": "Ankara",
+    "tur": "Askeri",
+    "web": "https://www.jsga.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d386f",
+    "ad": "Lokman Hekim Üniversitesi",
+    "sehir": "Ankara",
+    "tur": "Vakıf",
+    "web": "https://www.lokmanhekim.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3883",
+    "ad": "Orta Doğu Teknik Üniversitesi",
+    "sehir": "Ankara",
+    "tur": "Devlet",
+    "web": "https://www.metu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3885",
+    "ad": "Ostim Teknik Üniversitesi",
+    "sehir": "Ankara",
+    "tur": "Vakıf",
+    "web": "https://www.ostimteknik.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3889",
+    "ad": "Polis Akademisi",
+    "sehir": "Ankara",
+    "tur": "Askeri",
+    "web": "https://www.pa.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3899",
+    "ad": "TED Üniversitesi",
+    "sehir": "Ankara",
+    "tur": "Vakıf",
+    "web": "https://www.tedu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d389b",
+    "ad": "TOBB Ekonomi ve Teknoloji Üniversitesi",
+    "sehir": "Ankara",
+    "tur": "Vakıf",
+    "web": "https://www.etu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d38a0",
+    "ad": "Türk Hava Kurumu Üniversitesi",
+    "sehir": "Ankara",
+    "tur": "Vakıf",
+    "web": "https://www.thk.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d38a3",
+    "ad": "Ufuk Üniversitesi",
+    "sehir": "Ankara",
+    "tur": "Vakıf",
+    "web": "https://www.ufuk.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d38ac",
+    "ad": "Yüksek İhtisas Üniversitesi",
+    "sehir": "Ankara",
+    "tur": "Vakıf",
+    "web": "https://www.yiu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d37e8",
+    "ad": "Akdeniz Üniversitesi",
+    "sehir": "Antalya",
+    "tur": "Devlet",
+    "web": "https://www.akdeniz.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d37ea",
+    "ad": "Alanya Alaaddin Keykubat Üniversitesi",
+    "sehir": "Antalya",
+    "tur": "Devlet",
+    "web": "https://www.alanya.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d37eb",
+    "ad": "Alanya Üniversitesi",
+    "sehir": "Antalya",
+    "tur": "Vakıf",
+    "web": "https://www.alanyauniversity.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d37f6",
+    "ad": "Antalya Belek Üniversitesi",
+    "sehir": "Antalya",
+    "tur": "Vakıf",
+    "web": "https://www.antalyabelek.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d37f7",
+    "ad": "Antalya Bilim Üniversitesi",
+    "sehir": "Antalya",
+    "tur": "Vakıf",
+    "web": "https://www.antalya.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d37f8",
+    "ad": "Ardahan Üniversitesi",
+    "sehir": "Ardahan",
+    "tur": "Devlet",
+    "web": "https://www.ardahan.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d37f9",
+    "ad": "Artvin Çoruh Üniversitesi",
+    "sehir": "Artvin",
+    "tur": "Devlet",
+    "web": "https://www.artvin.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d37fd",
+    "ad": "Aydın Adnan Menderes Üniversitesi",
+    "sehir": "Aydın",
+    "tur": "Devlet",
+    "web": "https://www.adu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d37e7",
+    "ad": "Ağrı İbrahim Çeçen Üniversitesi",
+    "sehir": "Ağrı",
+    "tur": "Devlet",
+    "web": "https://www.agri.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d37ff",
+    "ad": "Balıkesir Üniversitesi",
+    "sehir": "Balıkesir",
+    "tur": "Devlet",
+    "web": "https://www.balikesir.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3800",
+    "ad": "Bandırma Onyedi Eylül Üniversitesi",
+    "sehir": "Balıkesir",
+    "tur": "Devlet",
+    "web": "https://www.bandirma.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3801",
+    "ad": "Bartın Üniversitesi",
+    "sehir": "Bartın",
+    "tur": "Devlet",
+    "web": "https://www.bartin.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3803",
+    "ad": "Batman Üniversitesi",
+    "sehir": "Batman",
+    "tur": "Devlet",
+    "web": "https://www.batman.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3804",
+    "ad": "Bayburt Üniversitesi",
+    "sehir": "Bayburt",
+    "tur": "Devlet",
+    "web": "https://www.bayburt.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3807",
+    "ad": "Bilecik Şeyh Edebali Üniversitesi",
+    "sehir": "Bilecik",
+    "tur": "Devlet",
+    "web": "https://www.bilecik.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3808",
+    "ad": "Bingöl Üniversitesi",
+    "sehir": "Bingöl",
+    "tur": "Devlet",
+    "web": "https://www.bingol.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d380a",
+    "ad": "Bitlis Eren Üniversitesi",
+    "sehir": "Bitlis",
+    "tur": "Devlet",
+    "web": "https://www.beu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d380c",
+    "ad": "Bolu Abant İzzet Baysal Üniversitesi",
+    "sehir": "Bolu",
+    "tur": "Devlet",
+    "web": "https://www.ibu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d380d",
+    "ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+    "sehir": "Burdur",
+    "tur": "Devlet",
+    "web": "https://www.mehmetakif.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d380e",
+    "ad": "Bursa Teknik Üniversitesi",
+    "sehir": "Bursa",
+    "tur": "Devlet",
+    "web": "https://www.btu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d380f",
+    "ad": "Bursa Uludağ Üniversitesi",
+    "sehir": "Bursa",
+    "tur": "Devlet",
+    "web": "https://www.uludag.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3879",
+    "ad": "Mudanya Üniversitesi",
+    "sehir": "Bursa",
+    "tur": "Vakıf",
+    "web": "https://www.mudanya.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3887",
+    "ad": "Pamukkale Üniversitesi",
+    "sehir": "Denizli",
+    "tur": "Devlet",
+    "web": "https://www.pau.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3816",
+    "ad": "Dicle Üniversitesi",
+    "sehir": "Diyarbakır",
+    "tur": "Devlet",
+    "web": "https://www.dicle.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3819",
+    "ad": "Düzce Üniversitesi",
+    "sehir": "Düzce",
+    "tur": "Devlet",
+    "web": "https://www.duzce.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d389f",
+    "ad": "Trakya Üniversitesi",
+    "sehir": "Edirne",
+    "tur": "Devlet",
+    "web": "https://www.trakya.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3822",
+    "ad": "Fırat Üniversitesi",
+    "sehir": "Elazığ",
+    "tur": "Devlet",
+    "web": "https://www.firat.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d381c",
+    "ad": "Erzincan Binali Yıldırım Üniversitesi",
+    "sehir": "Erzincan",
+    "tur": "Devlet",
+    "web": "https://www.erbahu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d37fa",
+    "ad": "Atatürk Üniversitesi",
+    "sehir": "Erzurum",
+    "tur": "Devlet",
+    "web": "https://www.atauni.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d381d",
+    "ad": "Erzurum Teknik Üniversitesi",
+    "sehir": "Erzurum",
+    "tur": "Devlet",
+    "web": "https://www.erzurum.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d37ee",
+    "ad": "Anadolu Üniversitesi",
+    "sehir": "Eskişehir",
+    "tur": "Devlet",
+    "web": "https://www.anadolu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d381e",
+    "ad": "Eskişehir Osmangazi Üniversitesi",
+    "sehir": "Eskişehir",
+    "tur": "Devlet",
+    "web": "https://www.ogu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d381f",
+    "ad": "Eskişehir Teknik Üniversitesi",
+    "sehir": "Eskişehir",
+    "tur": "Devlet",
+    "web": "https://www.eskisehir.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3825",
+    "ad": "Gaziantep İslam Bilim ve Teknoloji Üniversitesi",
+    "sehir": "Gaziantep",
+    "tur": "Devlet",
+    "web": "https://www.gibtu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3826",
+    "ad": "Gaziantep Üniversitesi",
+    "sehir": "Gaziantep",
+    "tur": "Devlet",
+    "web": "https://www.gantep.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d382e",
+    "ad": "Hasan Kalyoncu Üniversitesi",
+    "sehir": "Gaziantep",
+    "tur": "Vakıf",
+    "web": "https://www.hku.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3890",
+    "ad": "Sanko Üniversitesi",
+    "sehir": "Gaziantep",
+    "tur": "Vakıf",
+    "web": "https://www.sanko.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3828",
+    "ad": "Giresun Üniversitesi",
+    "sehir": "Giresun",
+    "tur": "Devlet",
+    "web": "https://www.giresun.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3829",
+    "ad": "Gümüşhane Üniversitesi",
+    "sehir": "Gümüşhane",
+    "tur": "Devlet",
+    "web": "https://www.gumushane.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d382b",
+    "ad": "Hakkari Üniversitesi",
+    "sehir": "Hakkari",
+    "tur": "Devlet",
+    "web": "https://www.hakkari.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d382f",
+    "ad": "Hatay Mustafa Kemal Üniversitesi",
+    "sehir": "Hatay",
+    "tur": "Devlet",
+    "web": "https://www.mku.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3837",
+    "ad": "İskenderun Teknik Üniversitesi",
+    "sehir": "Hatay",
+    "tur": "Devlet",
+    "web": "https://www.iste.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3832",
+    "ad": "Isparta Uygulamalı Bilimler Üniversitesi",
+    "sehir": "Isparta",
+    "tur": "Devlet",
+    "web": "https://www.isparta.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3896",
+    "ad": "Süleyman Demirel Üniversitesi",
+    "sehir": "Isparta",
+    "tur": "Devlet",
+    "web": "https://www.sdu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3831",
+    "ad": "Iğdır Üniversitesi",
+    "sehir": "Iğdır",
+    "tur": "Devlet",
+    "web": "https://www.igdir.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d385b",
+    "ad": "Kahramanmaraş İstiklal Üniversitesi",
+    "sehir": "Kahramanmaraş",
+    "tur": "Devlet",
+    "web": "https://www.istiklal.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d385c",
+    "ad": "Kahramanmaraş Sütçü İmam Üniversitesi",
+    "sehir": "Kahramanmaraş",
+    "tur": "Devlet",
+    "web": "https://www.ksu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d385e",
+    "ad": "Karabük Üniversitesi",
+    "sehir": "Karabük",
+    "tur": "Devlet",
+    "web": "https://www.karabuk.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3860",
+    "ad": "Karamanoğlu Mehmetbey Üniversitesi",
+    "sehir": "Karaman",
+    "tur": "Devlet",
+    "web": "https://www.kmu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d385a",
+    "ad": "Kafkas Üniversitesi",
+    "sehir": "Kars",
+    "tur": "Devlet",
+    "web": "https://www.kafkas.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3861",
+    "ad": "Kastamonu Üniversitesi",
+    "sehir": "Kastamonu",
+    "tur": "Devlet",
+    "web": "https://www.kastamonu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d37e1",
+    "ad": "Abdullah Gül Üniversitesi",
+    "sehir": "Kayseri",
+    "tur": "Devlet",
+    "web": "https://www.agu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d381b",
+    "ad": "Erciyes Üniversitesi",
+    "sehir": "Kayseri",
+    "tur": "Devlet",
+    "web": "https://www.erciyes.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3862",
+    "ad": "Kayseri Üniversitesi",
+    "sehir": "Kayseri",
+    "tur": "Devlet",
+    "web": "https://www.kayseri.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3880",
+    "ad": "Nuh Naci Yazgan Üniversitesi",
+    "sehir": "Kayseri",
+    "tur": "Vakıf",
+    "web": "https://www.nny.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3866",
+    "ad": "Kilis 7 Aralık Üniversitesi",
+    "sehir": "Kilis",
+    "tur": "Devlet",
+    "web": "https://www.kilis.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3827",
+    "ad": "Gebze Teknik Üniversitesi",
+    "sehir": "Kocaeli",
+    "tur": "Devlet",
+    "web": "https://www.gtu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3867",
+    "ad": "Kocaeli Sağlık ve Teknoloji Üniversitesi",
+    "sehir": "Kocaeli",
+    "tur": "Devlet",
+    "web": "https://www.kocaelisaglik.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3868",
+    "ad": "Kocaeli Üniversitesi",
+    "sehir": "Kocaeli",
+    "tur": "Devlet",
+    "web": "https://www.kocaeli.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d386a",
+    "ad": "Konya Gıda ve Tarım Üniversitesi",
+    "sehir": "Konya",
+    "tur": "Vakıf",
+    "web": "https://www.gidatarim.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d386b",
+    "ad": "Konya Teknik Üniversitesi",
+    "sehir": "Konya",
+    "tur": "Devlet",
+    "web": "https://www.konyateknik.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d386c",
+    "ad": "KTO Karatay Üniversitesi",
+    "sehir": "Konya",
+    "tur": "Vakıf",
+    "web": "https://www.karatay.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d387d",
+    "ad": "Necmettin Erbakan Üniversitesi",
+    "sehir": "Konya",
+    "tur": "Devlet",
+    "web": "https://www.erbakan.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3891",
+    "ad": "Selçuk Üniversitesi",
+    "sehir": "Konya",
+    "tur": "Devlet",
+    "web": "https://www.selcuk.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d386d",
+    "ad": "Kütahya Dumlupınar Üniversitesi",
+    "sehir": "Kütahya",
+    "tur": "Devlet",
+    "web": "https://www.dpu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d386e",
+    "ad": "Kütahya Sağlık Bilimleri Üniversitesi",
+    "sehir": "Kütahya",
+    "tur": "Devlet",
+    "web": "https://www.kutahya.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3864",
+    "ad": "Kırklareli Üniversitesi",
+    "sehir": "Kırklareli",
+    "tur": "Devlet",
+    "web": "https://www.klu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3863",
+    "ad": "Kırıkkale Üniversitesi",
+    "sehir": "Kırıkkale",
+    "tur": "Devlet",
+    "web": "https://www.kku.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3865",
+    "ad": "Kırşehir Ahi Evran Üniversitesi",
+    "sehir": "Kırşehir",
+    "tur": "Devlet",
+    "web": "https://www.ahievran.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3836",
+    "ad": "İnönü Üniversitesi",
+    "sehir": "Malatya",
+    "tur": "Devlet",
+    "web": "https://www.inonu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3870",
+    "ad": "Malatya Turgut Özal Üniversitesi",
+    "sehir": "Malatya",
+    "tur": "Devlet",
+    "web": "https://www.ozal.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3872",
+    "ad": "Manisa Celal Bayar Üniversitesi",
+    "sehir": "Manisa",
+    "tur": "Devlet",
+    "web": "https://www.mcbu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3873",
+    "ad": "Mardin Artuklu Üniversitesi",
+    "sehir": "Mardin",
+    "tur": "Devlet",
+    "web": "https://www.artuklu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3810",
+    "ad": "Çağ Üniversitesi",
+    "sehir": "Mersin",
+    "tur": "Vakıf",
+    "web": "https://www.cag.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3876",
+    "ad": "Mersin Üniversitesi",
+    "sehir": "Mersin",
+    "tur": "Devlet",
+    "web": "https://www.mersin.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3898",
+    "ad": "Tarsus Üniversitesi",
+    "sehir": "Mersin",
+    "tur": "Vakıf",
+    "web": "https://www.tarsus.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d389d",
+    "ad": "Toros Üniversitesi",
+    "sehir": "Mersin",
+    "tur": "Vakıf",
+    "web": "https://www.toros.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d387a",
+    "ad": "Muğla Sıtkı Koçman Üniversitesi",
+    "sehir": "Muğla",
+    "tur": "Devlet",
+    "web": "https://www.mu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d387c",
+    "ad": "Muş Alparslan Üniversitesi",
+    "sehir": "Muş",
+    "tur": "Devlet",
+    "web": "https://www.alparslan.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d385d",
+    "ad": "Kapadokya Üniversitesi",
+    "sehir": "Nevşehir",
+    "tur": "Vakıf",
+    "web": "https://www.kapadokya.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d387e",
+    "ad": "Nevşehir Hacı Bektaş Veli Üniversitesi",
+    "sehir": "Nevşehir",
+    "tur": "Devlet",
+    "web": "https://www.nevsehir.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d387f",
+    "ad": "Niğde Ömer Halisdemir Üniversitesi",
+    "sehir": "Niğde",
+    "tur": "Devlet",
+    "web": "https://www.ohu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3882",
+    "ad": "Ordu Üniversitesi",
+    "sehir": "Ordu",
+    "tur": "Devlet",
+    "web": "https://www.odu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3884",
+    "ad": "Osmaniye Korkut Ata Üniversitesi",
+    "sehir": "Osmaniye",
+    "tur": "Devlet",
+    "web": "https://www.osmaniye.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d388a",
+    "ad": "Recep Tayyip Erdoğan Üniversitesi",
+    "sehir": "Rize",
+    "tur": "Devlet",
+    "web": "https://www.erdogan.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d388d",
+    "ad": "Sakarya Uygulamalı Bilimler Üniversitesi",
+    "sehir": "Sakarya",
+    "tur": "Devlet",
+    "web": "https://www.subu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d388e",
+    "ad": "Sakarya Üniversitesi",
+    "sehir": "Sakarya",
+    "tur": "Devlet",
+    "web": "https://www.sakarya.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3881",
+    "ad": "Ondokuz Mayıs Üniversitesi",
+    "sehir": "Samsun",
+    "tur": "Devlet",
+    "web": "https://www.omu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d388f",
+    "ad": "Samsun Üniversitesi",
+    "sehir": "Samsun",
+    "tur": "Devlet",
+    "web": "https://www.samsun.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3892",
+    "ad": "Siirt Üniversitesi",
+    "sehir": "Siirt",
+    "tur": "Devlet",
+    "web": "https://www.siirt.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3893",
+    "ad": "Sinop Üniversitesi",
+    "sehir": "Sinop",
+    "tur": "Devlet",
+    "web": "https://www.sinop.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3894",
+    "ad": "Sivas Bilim ve Teknoloji Üniversitesi",
+    "sehir": "Sivas",
+    "tur": "Devlet",
+    "web": "https://www.sivas.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3895",
+    "ad": "Sivas Cumhuriyet Üniversitesi",
+    "sehir": "Sivas",
+    "tur": "Devlet",
+    "web": "https://www.cumhuriyet.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d389a",
+    "ad": "Tekirdağ Namık Kemal Üniversitesi",
+    "sehir": "Tekirdağ",
+    "tur": "Devlet",
+    "web": "https://www.nku.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d389c",
+    "ad": "Tokat Gaziosmanpaşa Üniversitesi",
+    "sehir": "Tokat",
+    "tur": "Devlet",
+    "web": "https://www.gop.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d37fc",
+    "ad": "Avrasya Üniversitesi",
+    "sehir": "Trabzon",
+    "tur": "Vakıf",
+    "web": "https://www.avrasya.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d385f",
+    "ad": "Karadeniz Teknik Üniversitesi",
+    "sehir": "Trabzon",
+    "tur": "Devlet",
+    "web": "https://www.ktu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d389e",
+    "ad": "Trabzon Üniversitesi",
+    "sehir": "Trabzon",
+    "tur": "Devlet",
+    "web": "https://www.trabzon.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d387b",
+    "ad": "Munzur Üniversitesi",
+    "sehir": "Tunceli",
+    "tur": "Devlet",
+    "web": "https://www.munzur.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d38a4",
+    "ad": "Uşak Üniversitesi",
+    "sehir": "Uşak",
+    "tur": "Devlet",
+    "web": "https://www.usak.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d38a6",
+    "ad": "Van Yüzüncü Yıl Üniversitesi",
+    "sehir": "Van",
+    "tur": "Devlet",
+    "web": "https://www.yyu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d38a7",
+    "ad": "Yalova Üniversitesi",
+    "sehir": "Yalova",
+    "tur": "Devlet",
+    "web": "https://www.yalova.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d38ab",
+    "ad": "Yozgat Bozok Üniversitesi",
+    "sehir": "Yozgat",
+    "tur": "Devlet",
+    "web": "https://www.bozok.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d38ad",
+    "ad": "Zonguldak Bülent Ecevit Üniversitesi",
+    "sehir": "Zonguldak",
+    "tur": "Devlet",
+    "web": "https://www.beun.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3811",
+    "ad": "Çanakkale Onsekiz Mart Üniversitesi",
+    "sehir": "Çanakkale",
+    "tur": "Devlet",
+    "web": "https://www.comu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3813",
+    "ad": "Çankırı Karatekin Üniversitesi",
+    "sehir": "Çankırı",
+    "tur": "Devlet",
+    "web": "https://www.karatekin.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3830",
+    "ad": "Hitit Üniversitesi",
+    "sehir": "Çorum",
+    "tur": "Devlet",
+    "web": "https://www.hitit.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d37e2",
+    "ad": "Acıbadem Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.acibadem.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d37ec",
+    "ad": "Altınbaş Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.altinbas.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d37fe",
+    "ad": "Bahçeşehir Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.bau.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3805",
+    "ad": "Beykoz Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.beykoz.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3806",
+    "ad": "Bezmialem Vakıf Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.bezmialem.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3809",
+    "ad": "Biruni Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.biruni.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d380b",
+    "ad": "Boğaziçi Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Devlet",
+    "web": "https://www.boun.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3815",
+    "ad": "Demiroğlu Bilim Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.dbu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3817",
+    "ad": "Doğuş Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.dogus.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3820",
+    "ad": "Fatih Sultan Mehmet Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.fsm.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3821",
+    "ad": "Fenerbahçe Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.fbu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3823",
+    "ad": "Galatasaray Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Devlet",
+    "web": "https://www.gsu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d382c",
+    "ad": "Haliç Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.halic.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3833",
+    "ad": "Işık Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.isikun.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3834",
+    "ad": "İbn Haldun Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.ihu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3838",
+    "ad": "İstanbul 29 Mayıs Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.29mayis.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3839",
+    "ad": "İstanbul Arel Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.arel.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d383a",
+    "ad": "İstanbul Atlas Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.atlas.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d383b",
+    "ad": "İstanbul Aydın Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.aydin.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d383c",
+    "ad": "İstanbul Beykent Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.beykent.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d383d",
+    "ad": "İstanbul Bilgi Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.bilgi.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d383e",
+    "ad": "İstanbul Esenyurt Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.esenuyrt.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d383f",
+    "ad": "İstanbul Galata Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.galata.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3840",
+    "ad": "İstanbul Gedik Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.gedik.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3841",
+    "ad": "İstanbul Gelişim Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.gelisim.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3842",
+    "ad": "İstanbul Kent Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.kent.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3843",
+    "ad": "İstanbul Kültür Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.iku.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3844",
+    "ad": "İstanbul Medeniyet Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Devlet",
+    "web": "https://www.medeniyet.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3845",
+    "ad": "İstanbul Medipol Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.medipol.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3846",
+    "ad": "İstanbul Nişantaşı Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.nisantasi.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3847",
+    "ad": "İstanbul Okan Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.okan.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3848",
+    "ad": "İstanbul Rumeli Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.rumeli.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3849",
+    "ad": "İstanbul Sabahattin Zaim Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.izu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d384a",
+    "ad": "İstanbul Sağlık ve Teknoloji Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.istun.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d384b",
+    "ad": "İstanbul Teknik Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Devlet",
+    "web": "https://www.itu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d384c",
+    "ad": "İstanbul Ticaret Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.ticaret.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d384d",
+    "ad": "İstanbul Topkapı Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.topkapi.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d384e",
+    "ad": "İstanbul Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Devlet",
+    "web": "https://www.istanbul.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d384f",
+    "ad": "İstanbul Üniversitesi-Cerrahpaşa",
+    "sehir": "İstanbul",
+    "tur": "Devlet",
+    "web": "https://www.istanbulc.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3850",
+    "ad": "İstanbul Yeni Yüzyıl Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.yeniyuzyil.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3851",
+    "ad": "İstinye Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.istinye.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3859",
+    "ad": "Kadir Has Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.khas.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3869",
+    "ad": "Koç Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.ku.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3871",
+    "ad": "Maltepe Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.maltepe.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3874",
+    "ad": "Marmara Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Devlet",
+    "web": "https://www.marmara.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3875",
+    "ad": "MEF Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.mef.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3877",
+    "ad": "Milli Savunma Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Askeri",
+    "web": "https://www.msu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3878",
+    "ad": "Mimar Sinan Güzel Sanatlar Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Devlet",
+    "web": "https://www.msgsu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3886",
+    "ad": "Özyeğin Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.ozyegin.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3888",
+    "ad": "Piri Reis Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.pirireis.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d388b",
+    "ad": "Sabancı Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.sabanciuniv.edu",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d388c",
+    "ad": "Sağlık Bilimleri Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Devlet",
+    "web": "https://www.sbu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d38a1",
+    "ad": "Türk-Alman Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Devlet",
+    "web": "https://www.tau.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d38a2",
+    "ad": "Türk-Japon Bilim ve Teknoloji Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Devlet",
+    "web": "https://www.tju.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d38a5",
+    "ad": "Üsküdar Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.uskudar.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d38a9",
+    "ad": "Yeditepe Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Vakıf",
+    "web": "https://www.yeditepe.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d38aa",
+    "ad": "Yıldız Teknik Üniversitesi",
+    "sehir": "İstanbul",
+    "tur": "Devlet",
+    "web": "https://www.yildiz.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3818",
+    "ad": "Dokuz Eylül Üniversitesi",
+    "sehir": "İzmir",
+    "tur": "Devlet",
+    "web": "https://www.deu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d381a",
+    "ad": "Ege Üniversitesi",
+    "sehir": "İzmir",
+    "tur": "Devlet",
+    "web": "https://www.ege.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3852",
+    "ad": "İzmir Bakırçay Üniversitesi",
+    "sehir": "İzmir",
+    "tur": "Devlet",
+    "web": "https://www.bakircay.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3853",
+    "ad": "İzmir Demokrasi Üniversitesi",
+    "sehir": "İzmir",
+    "tur": "Devlet",
+    "web": "https://www.idu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3854",
+    "ad": "İzmir Ekonomi Üniversitesi",
+    "sehir": "İzmir",
+    "tur": "Vakıf",
+    "web": "https://www.ieu.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3855",
+    "ad": "İzmir Kâtip Çelebi Üniversitesi",
+    "sehir": "İzmir",
+    "tur": "Devlet",
+    "web": "https://www.ikc.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3856",
+    "ad": "İzmir Tınaztepe Üniversitesi",
+    "sehir": "İzmir",
+    "tur": "Vakıf",
+    "web": "https://www.tinaztepe.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3857",
+    "ad": "İzmir Yüksek Teknoloji Enstitüsü",
+    "sehir": "İzmir",
+    "tur": "Devlet",
+    "web": "https://www.iyte.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d38a8",
+    "ad": "Yaşar Üniversitesi",
+    "sehir": "İzmir",
+    "tur": "Vakıf",
+    "web": "https://www.yasar.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d382d",
+    "ad": "Harran Üniversitesi",
+    "sehir": "Şanlıurfa",
+    "tur": "Devlet",
+    "web": "https://www.harran.edu.tr",
+    "bolumler": []
+  },
+  {
+    "_id": "67fb74670352d15df92d3897",
+    "ad": "Şırnak Üniversitesi",
+    "sehir": "Şırnak",
+    "tur": "Devlet",
+    "web": "https://www.sirnak.edu.tr",
+    "bolumler": []
+  }
+]

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>UNIREHBER | Universite Yorum Platformu</title>
+    <link rel="stylesheet" href="/css/styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="/" aria-label="UNIREHBER ana sayfa">
+        <span class="brand-mark">UR</span>
+        <span>UNIREHBER</span>
+      </a>
+      <nav class="nav">
+        <a href="#universiteler">Universiteler</a>
+        <a href="#yorumlar">Son yorumlar</a>
+        <a href="/admin">Admin</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Turkiye universite tercih rehberi</p>
+          <h1>Universite secmeden once gercek deneyimleri oku.</h1>
+          <p>
+            Universiteleri sehre, ture ve puana gore incele; ogrenci yorumlari admin
+            onayindan sonra yayina girsin.
+          </p>
+        </div>
+
+        <form class="search-panel" id="searchForm">
+          <label>
+            Universite ara
+            <input id="searchInput" type="search" placeholder="Orn: Bursa Uludag" autocomplete="off" />
+          </label>
+          <label>
+            Sehir
+            <select id="cityFilter">
+              <option value="">Tum sehirler</option>
+            </select>
+          </label>
+          <label>
+            Tur
+            <select id="typeFilter">
+              <option value="">Tum turler</option>
+            </select>
+          </label>
+          <label>
+            Siralama
+            <select id="sortFilter">
+              <option value="ad">Ada gore</option>
+              <option value="puan">Puana gore</option>
+              <option value="yorum">Yorum sayisina gore</option>
+            </select>
+          </label>
+          <button class="primary-button" type="submit">Ara</button>
+        </form>
+      </section>
+
+      <section class="section-band metrics-band" aria-label="Platform ozeti">
+        <div>
+          <strong id="metricUniversity">0</strong>
+          <span>universite</span>
+        </div>
+        <div>
+          <strong id="metricCity">0</strong>
+          <span>sehir filtresi</span>
+        </div>
+        <div>
+          <strong>Admin</strong>
+          <span>onayli yorum sistemi</span>
+        </div>
+      </section>
+
+      <section class="content-grid" id="universiteler">
+        <div>
+          <div class="section-heading">
+            <p class="eyebrow">Arama sonuclari</p>
+            <h2>Universiteler</h2>
+          </div>
+          <div class="university-list" id="universityList" aria-live="polite"></div>
+        </div>
+
+        <aside class="side-panel">
+          <div class="section-heading">
+            <p class="eyebrow">Populer</p>
+            <h2>One cikanlar</h2>
+          </div>
+          <div id="popularList" class="compact-list"></div>
+        </aside>
+      </section>
+
+      <section class="section-band" id="yorumlar">
+        <div class="section-heading">
+          <p class="eyebrow">Son deneyimler</p>
+          <h2>Onaylanan son yorumlar</h2>
+        </div>
+        <div class="comment-grid" id="latestComments"></div>
+      </section>
+
+      <section class="about-section">
+        <div class="section-heading">
+          <p class="eyebrow">Neden var?</p>
+          <h2>Tercih doneminde temiz ve kullanisli bilgi.</h2>
+        </div>
+        <p>
+          UNIREHBER, universite adaylarinin sadece katalog bilgisiyle degil,
+          ogrenci deneyimiyle karar vermesine yardim eder. Yorumlar once admin
+          paneline duser; spam, kufur ve bos icerik yayina alinmaz.
+        </p>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <span>UNIREHBER</span>
+      <span>Node.js + Express + MongoDB</span>
+    </footer>
+
+    <script src="/js/main.js"></script>
+  </body>
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Admin Panel | UNIREHBER</title>
+    <link rel="stylesheet" href="/css/styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="/" aria-label="UNIREHBER ana sayfa">
+        <span class="brand-mark">UR</span>
+        <span>UNIREHBER</span>
+      </a>
+      <nav class="nav">
+        <a href="/">Site</a>
+        <button class="ghost-button hidden" id="logoutButton" type="button">Cikis</button>
+      </nav>
+    </header>
+
+    <main class="admin-page">
+      <section class="login-panel" id="loginPanel">
+        <div class="section-heading">
+          <p class="eyebrow">Admin</p>
+          <h1>Yorum kontrol paneli</h1>
+        </div>
+        <form id="loginForm" class="review-form">
+          <label>
+            Sifre
+            <input name="password" type="password" placeholder="Admin sifresi" required />
+          </label>
+          <button class="primary-button" type="submit">Giris yap</button>
+          <p class="form-message" id="loginMessage"></p>
+        </form>
+      </section>
+
+      <section class="admin-shell hidden" id="adminShell">
+        <div class="section-heading">
+          <p class="eyebrow">Moderasyon</p>
+          <h1>Yorumlar</h1>
+        </div>
+        <div class="admin-toolbar">
+          <button class="tab-button active" data-status="beklemede" type="button">Bekleyen</button>
+          <button class="tab-button" data-status="onayland&#305;" type="button">Onaylanan</button>
+          <button class="tab-button" data-status="reddedildi" type="button">Reddedilen</button>
+          <button class="tab-button" data-status="tum" type="button">Tumu</button>
+        </div>
+        <div id="adminComments" class="admin-comments"></div>
+      </section>
+    </main>
+
+    <script src="/js/admin.js"></script>
+  </body>
+</html>
